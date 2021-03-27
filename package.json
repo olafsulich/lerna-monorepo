@@ -1,0 +1,9 @@
+{
+  "name": "root",
+  "private": true,
+  "author": "Olaf Sulich",
+  "license": " AGPL-3.0",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
